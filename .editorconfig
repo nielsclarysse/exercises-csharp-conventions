@@ -1,0 +1,9 @@
+﻿dotnet_naming_rule.private_fields_must_begin_with_underscore.severity = error
+dotnet_naming_rule.private_fields_must_begin_with_underscore.symbols = private_fields
+dotnet_naming_rule.private_fields_must_begin_with_underscore.style = underscore_prefix
+
+dotnet_naming_symbols.private_fields.applicable_kinds = field
+dotnet_naming_symbols.private_fields.applicable_accessibilities = private
+
+dotnet_naming_style.underscore_prefix.required_prefix = _
+dotnet_naming_style.underscore_prefix.capitalization = camel_case
