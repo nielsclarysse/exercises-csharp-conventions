@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="ClassLibrary\ClassLibrary.csproj" Type="Classic C#" />
+  <Project Path="Common\Common.csproj" Type="Classic C#" />
+  <Project Path="ConsoleApp\ConsoleApp.csproj" Type="Classic C#" />
 </Solution>

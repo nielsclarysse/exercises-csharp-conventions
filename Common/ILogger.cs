@@ -1,4 +1,4 @@
-﻿namespace ClassLibrary;
+﻿namespace ConsoleApp;
 
 public interface ILogger
 {
